@@ -1,7 +1,7 @@
 
 # 🏡 King County, Washington House Sales Dashboard  
 
-https://github.com/user-attachments/assets/810b0c90-cc1c-4f51-9b6b-35cfd7c1dea5
+![Image](https://github.com/user-attachments/assets/6e5a3d18-d064-4ba2-9f48-4b7d796a5a9d)
 
 
 This Tableau dashboard provides an **interactive visualization** of house sales in King County, Washington, with insights into pricing, house conditions, and various property characteristics.  
